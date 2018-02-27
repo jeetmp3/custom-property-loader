@@ -1,0 +1,2 @@
+#org.springframework.boot.env.EnvironmentPostProcessor=demo.spring.cutom.prop.custompropertyloader.config.EnvPostProcessor
+#org.springframework.context.ApplicationContextInitializer=demo.spring.cutom.prop.custompropertyloader.config.EnvPostProcessInitializer
